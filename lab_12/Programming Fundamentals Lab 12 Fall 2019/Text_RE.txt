@@ -1,0 +1,6 @@
+Every programmer has a story about how they learned to write their first program. I started learning as a child when  my father was working for Digital Equipment Corporation, one of the pioneering companies of the modern computing era. I wrote my first program on a  kit computer my dad had assembled in our basement. The  computer consisted of nothing more than a bare motherboard connected to a keyboard without a case, and it had a bare cathode ray tube for a monitor. My initial program was a simple number guessing game, which looked something like this: 
+I'm thinking of a number! Try to guess the number I'm thinking of: 25
+Too low! Guess again: 50
+Too high! Guess again: 42
+That's it! Would you like to play again? (yes/no) no
+Thanks for playing!
